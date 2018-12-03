@@ -2,7 +2,6 @@
   "name": "sociolla-component",
   "version": "1.0",
   "description": "Sociolla Component",
-  "main": "src/assets/sass/style.scss",
   "files": [
     "src/assets/sass/style.scss"
   ],
