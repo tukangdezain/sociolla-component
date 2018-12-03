@@ -2,9 +2,9 @@
   "name": "sociolla-components",
   "version": "1.0",
   "description": "Sociolla Components",
-  "main": "normalize.css",
+  "main": "src/assets/sass/style.scss",
   "files": [
-    "src/style.js"
+    "src/assets/sass/style.scss"
   ],
   "repository": "tukangdezain/sociolla-components",
   "license": "MIT",
