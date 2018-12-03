@@ -9,6 +9,8 @@
     "type": "git",
     "url": "https://github.com/tukangdezain/sociolla-component.git"
   },
+  "homepage": "https://github.com/tukangdezain/sociolla-component#readme",
+  "author": "Mochamad Taufan",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
