@@ -1,13 +1,18 @@
 {
   "name": "sociolla-components",
-  "main": "sociolla-components",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0",
+  "main": "./src/style.js",
+  "location": "./src/style.js",
+  "homepage": "https://www.sociolla.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tukangdezain/sociolla-component.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
-  "location": "./src/style.js",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "vue": "^2.5.17",
@@ -29,12 +34,5 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ],
-  "homepage": "https://www.sociolla.com",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:tukangdezain/sociolla-component.git"
-  },
-  "version": "1.0"
+  ]
 }
