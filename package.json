@@ -34,7 +34,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://https://taufanfebriawan@bitbucket.org/Sociolla/front-end-beauty-link.git#sociolla-components"
+    "url": "git@github.com:tukangdezain/sociolla-component.git"
   },
   "version": "1.0"
 }
