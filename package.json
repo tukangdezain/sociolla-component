@@ -2,9 +2,7 @@
   "name": "sociolla-component",
   "version": "1.0.0",
   "description": "Sociolla Component",
-  "files": [
-    "src/style.js"
-  ],
+  "main": "src/style.js",
   "repository": "tukangdezain/sociolla-component",
   "license": "MIT",
   "homepage": "https://github.com/tukangdezain/sociolla-component#readme",
