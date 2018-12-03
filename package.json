@@ -1,8 +1,7 @@
 {
   "name": "sociolla-components",
   "version": "1.0",
-  "main": "./src/style.js",
-  "location": "./src/style.js",
+  "main": "src/style.js",
   "homepage": "https://www.sociolla.com",
   "license": "MIT",
   "repository": {
