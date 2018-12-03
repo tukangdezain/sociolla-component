@@ -1,8 +1,8 @@
 {
   "name": "sociolla-components",
   "version": "1.0",
+  "description": "Sociolla Components",
   "main": "src/style.js",
-  "homepage": "https://www.sociolla.com",
   "license": "MIT",
   "repository": {
     "type": "git",
